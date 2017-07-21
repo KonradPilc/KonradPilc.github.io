@@ -1,0 +1,46 @@
+.mainContent{
+	text-align: center;
+	vertical-align: middle;
+}
+header{
+	text-align: center;
+vertical-align: middle;
+margin-top:120px;
+}
+footer{
+	text-align: center;
+vertical-align: middle;
+}
+p,h5{
+	font-family: 'open sans',serif;
+	color:white;
+}
+h5{
+	font-size:32px;
+	color:white;
+
+}
+a{
+	font-family: 'open sans';
+	color:white;
+
+}
+body{
+	background-image:url("background.jpg");
+}
+.mainContent{
+	margin: 100px auto;
+	width:300px;
+}
+.gameElement{
+	margin-top:10px;
+}
+.gameTitle{
+	padding-bottom:15px;
+	font-size:30px;
+	font-style: bold;
+}
+.gameDesc{
+	font-size:15px;
+	padding-bottom:15px;
+}
