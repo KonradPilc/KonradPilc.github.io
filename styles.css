@@ -30,10 +30,13 @@ body{
 }
 .mainContent{
 	margin: 100px auto;
-	width:300px;
+	width:700px;
 }
 .gameElement{
 	margin-top:10px;
+	padding-left:15px;
+	width:300px;
+	float:left;
 }
 .gameTitle{
 	padding-bottom:15px;
@@ -43,4 +46,14 @@ body{
 .gameDesc{
 	font-size:15px;
 	padding-bottom:15px;
+}
+.snapshot{
+	float:left;
+	height:100%;
+}
+.row
+{
+	margin-top:15px;
+	width:800px;
+	height:220px;
 }
