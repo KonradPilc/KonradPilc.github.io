@@ -12,16 +12,17 @@ footer{
 vertical-align: middle;
 }
 p,h5{
-	font-family: 'open sans',serif;
+	font-family: 'Bellefair',serif;
 	color:white;
 }
 h5{
 	font-size:32px;
 	color:white;
+	font-family: 'Bellefair';
 
 }
 a{
-	font-family: 'open sans';
+	font-family: 'Bellefair';
 	color:white;
 
 }
